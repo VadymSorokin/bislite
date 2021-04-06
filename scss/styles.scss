@@ -76,7 +76,6 @@ body {
 	max-width: 250px;
 	padding: 10px 16px 10px 0;
 	border-top: 5px solid #e8ebf1;
-
 }
 
 .text {
@@ -107,7 +106,9 @@ body {
 	position: absolute;
 	background-color: #ffffff;
 }
-
+.menu:hover .link{
+	color: #2aacc8;
+}
 .sub_menu_list {
 	position: absolute;
 	width: auto;

@@ -107,6 +107,10 @@ body {
   background-color: #ffffff;
 }
 
+.menu:hover .link {
+  color: #2aacc8;
+}
+
 .sub_menu_list {
   position: absolute;
   width: auto;
